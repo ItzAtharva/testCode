@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Enter four numbers, one at a time:"
+echo "Enter four numbers =:"
 read num1
 read num2
 read num3
